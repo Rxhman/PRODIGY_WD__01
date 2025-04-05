@@ -17,10 +17,6 @@ TinDog is more than just a website; it's a haven for dog lovers and their furry 
 - 🐾 **Easy-to-Use Navigation:** Explore different sections effortlessly, ensuring you find what you need without hassle.
 - 🐾 **Dog Profiles:** View and create captivating profiles for your dogs, highlighting their unique personalities and preferences.
 
-## Demo
-
-Curious to see TinDog in action? Check out our live demo [here](https://rahmaaaan.github.io/Tindog/)!
-
 ## Installation
 
 Ready to bring TinDog to your local environment? Follow these simple steps:
